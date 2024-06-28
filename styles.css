@@ -28,12 +28,7 @@ h2 {
   color: hsl(14, 45%, 36%);
   margin-bottom: 10px;
 }
-h3 {
-  font-family: "Outfit", sans-serif;
-  color: hsl(332, 51%, 32%);
-  padding: 0;
-  margin: 0;
-}
+
 p {
   font-family: "Outfit", sans-serif;
   font-weight: 400;
@@ -97,6 +92,12 @@ img {
 }
 .prep-item::marker {
   color: hsl(332, 51%, 32%);
+}
+.time-header{
+  font-family: "Outfit", sans-serif;
+  color: hsl(332, 51%, 32%);
+  padding: 0;
+  margin: 0;
 }
 
 /* Ingredients & Instructions  */
