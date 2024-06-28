@@ -93,7 +93,7 @@ img {
 .prep-item::marker {
   color: hsl(332, 51%, 32%);
 }
-.time-header{
+.time-header {
   font-family: "Outfit", sans-serif;
   color: hsl(332, 51%, 32%);
   padding: 0;
@@ -146,11 +146,6 @@ img {
   margin: 0;
   padding: 0;
 }
-
-.nutrition-list:not(:last-child) {
-  border-bottom: 1px solid hsl(30, 18%, 87%);
-}
-
 .nutrition-list .gram {
   padding-right: 20px;
   color: hsl(14, 45%, 36%);
@@ -197,7 +192,7 @@ a:hover {
     border-radius: 25px;
     max-width: 700px;
   }
-  h1{
+  h1 {
     font-size: 40px;
   }
   .omelette-img {
