@@ -32,7 +32,6 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
 
 ### What I learned
@@ -48,7 +47,7 @@ What I learnt from this Challenge is, how to easily use Flexbox to align content
 
 ### Continued development
 
-I plan to work on my Flexbox knowledge. so i can develop my flexbox skills, and use it more effectively. 
+I plan to work on my Flexbox knowledge. so i can develop my flexbox skills, and use it more effectively.
 
 ## Author
 
